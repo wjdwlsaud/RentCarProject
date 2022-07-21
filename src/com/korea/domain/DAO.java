@@ -9,7 +9,7 @@ public class DAO
 {
     String id = "root";
     String pw = "1234";
-    String url = "jdbc:mysql://localhost:3306/RENTCARDB";
+    String url = "jdbc:mysql://localhost:3306/RentCarProject";
 
     Connection conn = null;
     PreparedStatement pstmt = null;
